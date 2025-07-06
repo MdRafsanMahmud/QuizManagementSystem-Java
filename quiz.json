@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Which type of testing is performed without executing the code?",
+    "option1": "White-box testing",
+    "option2": "Black-box testing",
+    "option3": "Static testing",
+    "option4": "Dynamic testing",
+    "answerkey": 3
+  },
+  {
+    "question": "What is the main objective of integration testing?",
+    "option1": "To test individual components",
+    "option2": "To test how modules interact",
+    "option3": "To validate user requirements",
+    "option4": "To test system performance",
+    "answerkey": 2
+  },
+  {
+    "question": "Which of the following is not a type of non-functional testing?",
+    "option1": "Performance testing",
+    "option2": "Usability testing",
+    "option3": "Security testing",
+    "option4": "Unit testing",
+    "answerkey": 4
+  },
+  {
+    "question": "What is regression testing used for?",
+    "option1": "To test new functionality",
+    "option2": "To test performance",
+    "option3": "To verify unchanged code still works",
+    "option4": "To test database interactions",
+    "answerkey": 3
+  },
+  {
+    "question": "Which of the following is a white-box testing technique?",
+    "option1": "Boundary value analysis",
+    "option2": "Decision coverage",
+    "option3": "Equivalence partitioning",
+    "option4": "State transition testing",
+    "answerkey": 2
+  },
+  {
+    "question": "Smoke testing is also known as:",
+    "option1": "Sanity testing",
+    "option2": "Build verification testing",
+    "option3": "Alpha testing",
+    "option4": "Beta testing",
+    "answerkey": 2
+  },
+  {
+    "question": "Which testing is done by end users before product release?",
+    "option1": "Alpha testing",
+    "option2": "Beta testing",
+    "option3": "Sanity testing",
+    "option4": "Regression testing",
+    "answerkey": 2
+  },
+  {
+    "question": "Which level of testing is done first?",
+    "option1": "Integration testing",
+    "option2": "System testing",
+    "option3": "Unit testing",
+    "option4": "Acceptance testing",
+    "answerkey": 3
+  },
+  {
+    "question": "Which model follows a linear sequential approach?",
+    "option1": "Agile model",
+    "option2": "V-Model",
+    "option3": "Waterfall model",
+    "option4": "Spiral model",
+    "answerkey": 3
+  },
+  {
+    "question": "Which testing technique is based on requirements and specifications?",
+    "option1": "Black-box testing",
+    "option2": "White-box testing",
+    "option3": "Unit testing",
+    "option4": "Path testing",
+    "answerkey": 1
+  },
+  {
+    "question": "Which is NOT part of system testing?",
+    "option1": "Regression Testing",
+    "option2": "Sanity Testing",
+    "option3": "Load Testing",
+    "option4": "Unit Testing",
+    "answerkey": 4
+  },
+  {
+    "question": "In which phase is test planning done?",
+    "option1": "Test execution",
+    "option2": "Requirement analysis",
+    "option3": "Test planning",
+    "option4": "Defect reporting",
+    "answerkey": 3
+  },
+  {
+    "question": "Which one is a defect tracking tool?",
+    "option1": "Postman",
+    "option2": "JMeter",
+    "option3": "Jira",
+    "option4": "Selenium",
+    "answerkey": 3
+  },
+  {
+    "question": "What does SDLC stand for",
+    "option1": "Software Development Life Cycle",
+    "option2": "System Design Life Cycle",
+    "option3": "Software Debugging Life Cycle",
+    "option4": "Structured Development Logic Cycle",
+    "answerkey": 1
+  },
+  {
+    "question": "What is boundary value analysis?",
+    "option1": "Testing the boundaries of software developers",
+    "option2": "Testing the boundaries of input ranges",
+    "option3": "Testing memory limits",
+    "option4": "Testing performance under pressure",
+    "answerkey": 2
+  },
+  {
+    "question": "Which of these tools is used for performance testing?",
+    "option1": "JMeter",
+    "option2": "Postman",
+    "option3": "Selenium",
+    "option4": "Jira",
+    "answerkey": 1
+  },
+  {
+    "question": "What is a test case?",
+    "option1": "A bug report",
+    "option2": "A set of steps to verify functionality",
+    "option3": "A type of user story",
+    "option4": "A regression test",
+    "answerkey": 2
+  },
+  {
+    "question": "Which of the following is a severity level of a bug?",
+    "option1": "Immediate",
+    "option2": "Trivial",
+    "option3": "Moderate",
+    "option4": "Normal",
+    "answerkey": 2
+  },
+  {
+    "question": "What is the first step in the software testing life cycle (STLC)",
+    "option1": "Test Planning",
+    "option2": "Test Case Design",
+    "option3": "Requirement Analysis",
+    "option4": "Defect Reporting",
+    "answerkey": 3
+  },
+  {
+    "question": "Which of the following is true for black-box testing?",
+    "option1": "It is done by developers",
+    "option2": "It tests internal logic",
+    "option3": "It focuses on input and output",
+    "option4": "It requires code access",
+    "answerkey": 3
+  }
+]
