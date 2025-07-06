@@ -108,14 +108,6 @@ https://github.com/user-attachments/assets/cecf306f-1bd9-4559-9f7d-2569a57865c1
 
 ---
 
-## 📌 Submission Checklist
-
-- ✅ Complete project uploaded to GitHub  
-- ✅ `.idea`, `.gradle`, `build`, `gradle` folders added to `.gitignore`  
-- ✅ Clear and structured `README.md`  
-- ✅ Video demo showcasing Admin & Student flows
-
----
 
 ## 📣 Contribution & Feedback
 
